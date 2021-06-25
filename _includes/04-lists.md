@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. this is ordered list
+2. use the number marked
+
+* this is unorder list
+* use the dot marked
+  *  the second unorder list
